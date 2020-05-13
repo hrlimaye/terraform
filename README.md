@@ -1,2 +1,2 @@
 # terraform
-terraform modules fod google cloud and aws
+terraform modules for google cloud and aws
